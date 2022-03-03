@@ -1,3 +1,3 @@
 # Wordle-Clone
-## Enjoy playing the new popular game... Worlde! 📘
+## Enjoy playing the new popular game... Wordle!📘
 - Copyright Mxltiply 2022 ©
