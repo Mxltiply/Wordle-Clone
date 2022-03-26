@@ -15296,7 +15296,7 @@ const targetWords = [
   const keyboard = document.querySelector("[data-keyboard]")
   const alertContainer = document.querySelector("[data-alert-container]")
   const guessGrid = document.querySelector("[data-guess-grid]")
-  const targetWord = targetWords[Math.floor(Math.random() * 2317]
+  const targetWord = targetWords[Math.floor(Math.random() * 2317)]
   
   startInteraction()
   
